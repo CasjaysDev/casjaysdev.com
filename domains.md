@@ -16,6 +16,8 @@ Domain List
 [casjay.net]( http://casjay.net) - expired  
 [casjaydns.com]( http://casjaydns.com)  
 [casjay.email]( http://casjay.email)  
+[casjay.link]( http://casjay.link)  
+[casjay.coffee]( http://casjay.coffee)  
 [casjaygames.com]( http://casjaygames.com)  
 [casjayhak.com]( http://casjayhak.com) - expired  
 [casjay.help]( http://casjay.help) - expired  
@@ -23,7 +25,7 @@ Domain List
 [casjay.info]( http://casjay.info) - expired  
 [casjay.net]( http://casjay.net)  
 [casjay.one]( http://casjay.one) - expired  
-[casjay.org]( http://casjay.org) - expired  
+[casjay.org]( http://casjay.org)  
 [casjay.recipes]( http://casjay.recipes) - expired  
 [casjaysdev.com]( http://casjaysdev.com)  
 [casjay.shop]( http://casjay.shop) - expired  
